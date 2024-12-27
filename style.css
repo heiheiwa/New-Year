@@ -10,14 +10,6 @@ body {
     user-select: none;
 }
 
-.shape {
-            font-size: 8vw;  /* 使用视口宽度作为字体大小 */
-            margin: 10px 0;
-            color: red;
-            text-align: center;
-            opacity: 0;
-            animation: fadeIn 1s forwards;
-        }
 audio {
     opacity: 0;
 }
